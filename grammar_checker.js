@@ -17,12 +17,10 @@ me was that near the end of the route you literally cross\n\
 back into New York! At this point, you are very close to\n\
 the end.';
 
-let storyWords = story.split(' '); //este es un comentario modificado
+let storyWords = story.split(' ');
 let unnecessaryWord = 'literally';
 let misspelledWord = 'beautifull';
 let badWord = 'freaking';
-
-const a = true; //variable creada al azar
 
 //console.log(storyWords);
 //Creamos una variable 'count' que almacena el numero 0
